@@ -1,5 +1,5 @@
-
-// extent for tank
+// Ref:
+// https://www.shiyanlou.com/courses/132
 
 var width;
 var height;
